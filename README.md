@@ -1,7 +1,7 @@
 # Letras
 PRACTICA REALIZADA POR:
 Antonio José Blánquez Pérez
-2ºD ESTRUCTURA DE DATOS
+2ºD ESTRUCTURA DE DATOS 2018
 -----------------------------------------------
 Las directrices de esta práctica pedian realizar un programa llamado letras que es la implementación del juego de letras del programa Cifras y Letras. Para ello se han de implementar tres módulos a parte del programa principal. En mi caso se va a encontrar tres archivos .h y un .cpp, además de los ficheros de diccionario y de letras. Pasemos a repasar qué y como se ha hecho cada archivo:
 
